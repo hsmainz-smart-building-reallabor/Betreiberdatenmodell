@@ -1,22 +1,22 @@
 # Betreiber-Datenmodell
 
-Ein herstellerneutrales Datenmodell für den Gebäudebetrieb auf Linked-Data-Basis — kein weiterer Standard, keine neue Datenstruktur, sondern die Verbindung bestehender Standards und Domänen über definierte Integrationspunkte.
+Ein herstellerneutrales Datenmodell für den Gebäudebetrieb auf Linked-Data-Basis, kein weiterer Standard, keine neue Datenstruktur, sondern die Verbindung bestehender Standards und Domänen über definierte Integrationspunkte.
 
-## Verbundene Standards & Ontologien
+## Standards & Ontologien
 
 - **IFC** — Industry Foundation Classes
 - **BOT** — Building Topology Ontology
 - **Brick** — Brick Schema
 - **ASHRAE 223P / 231P**
-- **AAS** — Asset Administration Shell (inkl. AID/AIMC)
-- **IBPDI** — International Building Product Data Initiative
-- **RealEstateCore**
+- **AAS** — Asset Administration Shell
+- **IBPDI** — International Building Performance & Data Initiative
+- **REC** - RealEstateCore
 - **WoT** — Web of Things (Thing Description)
 - **DBL** — EU Digital Building Logbook
 - **Haystack**
 - **SAREF**
 
-sowie relevante Protokolle wie KNX, BACnet, Modbus, OPC UA, MQTT.
+sowie relevante Protokolle wie BACnet, MQTT, OPC UA, Modbus, KNX oder LoRaWAN
 
 ## Kontext
 
