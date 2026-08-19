@@ -1,6 +1,10 @@
 # Betreiber-Datenmodell
 
-Ein herstellerneutrales Datenmodell für den Gebäudebetrieb auf Linked-Data-Basis, kein weiterer Standard, keine neue Datenstruktur, sondern die Verbindung bestehender Standards und Domänen über definierte Integrationspunkte.
+Ein herstellerneutrales Datenmodell für den Gebäudebetrieb auf Linked-Data-Basis — kein weiterer Standard, keine neue Datenstruktur, sondern die Verbindung bestehender Standards und Domänen über definierte Integrationspunkte.
+
+## Ansatz
+
+Wir bauen keine neue Ontologie und keinen Ersatz für bestehende Standards, sondern eine **Integrationsschicht**, die etablierte Domänen-Ontologien über definierte, versionierte Integrationspunkte miteinander verknüpft, "Referenzieren statt Kopieren". Jede Domäne bleibt in ihrem eigenen Standard verankert, das Betreiber-Datenmodell stellt die Übersetzungs- und Verknüpfungsregeln zwischen ihnen bereit, führt sie aber nicht in einer neuen Ontologie zusammen.
 
 ## Standards & Ontologien
 
